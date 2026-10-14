@@ -3,13 +3,12 @@
     <channel>
         <title>NotchDrop</title>
         <item>
-            <title>0.5</title>
-            <pubDate>Wed, 14 Oct 2026 14:48:31 +0300</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <title>0.5.1</title>
+            <pubDate>Wed, 14 Oct 2026 14:55:47 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Hounsot/notchdrop-updates/releases/download/v0.5/NotchDrop-0.5.zip" length="1526601" type="application/octet-stream" sparkle:edSignature="0R6/PhZYlwcLnWAQe6tKZPeetSCvWS34xzc763g+yaj2tHD/6Vzpj85FR1WDEV+mw8VPixR0g1rzH2np7NIUCg=="/>
+            <enclosure url="https://github.com/Hounsot/notchdrop-updates/releases/download/v0.5.1/NotchDrop-0.5.1.zip" length="1775614" type="application/octet-stream" sparkle:edSignature="gJldA8FUJPkBYtBNgqRnFAECK2Rrinv76pROn2glt1/AQD0sTotTM5w+jTqXzCZcc8CnOwo+/6U0Rb9GzAx4Dw=="/>
         </item>
     </channel>
 </rss>
